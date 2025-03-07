@@ -4,13 +4,13 @@ opencv-python
 libigl
 trimesh==4.2.0
 pygltflib
-pymeshlab==0.2
+# pymeshlab==0.2
 PyMCubes
 xatlas
 git+https://github.com/NVlabs/nvdiffrast/
 scikit-learn
 open_clip_torch
-triton==2.1.0
+# triton==2.1.0
 rembg
 gradio
 tqdm
